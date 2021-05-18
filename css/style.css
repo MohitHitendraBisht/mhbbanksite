@@ -1,0 +1,96 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: }
+.boxholder{
+	padding: 9px;
+	border: 1px solid #D6D6D6;
+}
+.center{
+	text-align: center;
+}
+.centermargin{
+	margin-left:470px;
+	margin-right: 470px;
+}
+
+.bgdred{
+	color:#ffffff;
+	background-color: #E76D66;
+}
+.bg_pink{
+	color:#ffffff;
+	background-color: 
+}
+.bg_blue2 {background-color : #0154A4; color:#fff;}
+.bg_blue1 {background-color : #0092ce;color:#fff;}
+.bg_green1 {background-color: #00A88F;color:#fff;}
+.bg_lime1 {background-color: #8dfc07;color:#fff;}
+.bg_yellow1 {background-color: #FEF200;color:#fff;}
+.bg_yellow2 {background-color: #FFC20f;color:#fff;}
+.bg_orange1 {background-color: #f78f1e;color:#fff;}
+.bg_orange2 {background-color: #f37020;color:#fff;}
+.bg_red1 {background-color: #Ed1b24;color:#fff;}
+.bg_pink1 {background-color: #e44097;color:#fff;}
+.bg_pink2 {background-color: #A64499;color:#fff;}
+.bg_purple1 {background-color: #6B439B;color:#fff;}
+.bg_purple2 {
+    background-color: #72325F;
+    color: #fff;
+}
+.bg_purple3 {
+    background-color: #423b3f;  /*#5B4A57; */
+    color: #fff;
+}
+
+
+.bg_blue {
+    color: #FFFFFF;
+    background-color: #56AED4;
+}
+.bg_green{color:#FFFFFF; background-color:#C0E079;}
+.bg_grey{color:#FFFFFF; background-color:#A8A8A8;}
+.bg_gray{color: black;    background-color: #EEEEEE;}
+.bg_dkgrey{color:#FFFFFF; background-color:#333333;}
+.bg_orange{color:#FFFFFF; background-color:#FF9900;}
+.bg_purple{color:#FFFFFF; background-color:#9F81A9;}
+.bg_red {
+    color: #FFFFFF;
+    background-color: #D54346;
+}
+.bg_yellow{color:#666666; background-color:#FDE803;}
+.bg_sand {background-color: #CCCC00;color: black;}
+.bg_dkblue {background-color: #03115D;color: #FFFFFF;}
+.bg_dkorange{background-color: #D15B03;color:#ffffff;}
+.bg_dblue1 {background-color:#486389;color:#ffffff;}
+.bg_Dred {
+    color: #FFFFFF;
+    background-color: #E76D66;
+}
+.bg_Dgreen {
+    color: #FFFFFF;
+    background-color: #95bb7a;
+}
+.bg_Dblue {
+    color: #FFFFFF;
+    background-color: #57a6b9;
+}
+.bg_Dgrey{color:#FFFFFF; background-color:#7f7f7f;}
+.bg_Dkgreen {
+    color: #FFFFFF;
+    background-color: #3b8814;
+}
+.bg_lblue {
+    color: #FFFFFF;
+    background-color: #b4dde9;
+}
+.bg_navy {
+    color: #FFFFFF;
+    background-color: #0e7670;
+}
+.bg_white {
+    color: #000000;
+    background-color: white;
+}
+
+/* form { 
+margin: 0 auto; 
+width:250px;
+} */
